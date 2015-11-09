@@ -1,5 +1,11 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg">
 <defs>
+<symbol id="circle-filled" viewBox="0 0 32 32">
+  <path d="M16 0c-8.84 0-16 7.16-16 16s7.16 16 16 16c8.84 0 16-7.16 16-16s-7.16-16-16-16z"></path>
+</symbol>
+<symbol id="circle-outline" viewBox="0 0 32 32">
+  <path d="M16 0c-8.84 0-16 7.16-16 16s7.16 16 16 16c8.84 0 16-7.16 16-16s-7.16-16-16-16zM16 2.023c7.724 0 13.977 6.253 13.977 13.977s-6.253 13.977-13.977 13.977c-7.724 0-13.977-6.253-13.977-13.977s6.253-13.977 13.977-13.977z"></path>
+</symbol>
 <symbol id="account-login" viewBox="0 0 8 8">
   <path d="M3 0v1h4v5h-4v1h5v-7h-5zm1 2v1h-4v1h4v1l2-1.5-2-1.5z"></path>
 </symbol>
